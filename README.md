@@ -1,4 +1,4 @@
-# Qualitor-QCrypt-Decoder
+# Qualitor QCrypt Decoder
 Simple qcrypt decoder for Qualitor Software.
 
 At some point I did a pentest on a web software called Qualitor. After fixing some of the vulnerabilities, they added a type of encryption to the GET and POST parameters.
